@@ -4,7 +4,7 @@ class AiObsidian < Formula
   desc "Local Apple Silicon CLI installer and assistant for Obsidian + oMLX"
   homepage "https://github.com/aarogozin/ai-obsidian"
   url "https://github.com/aarogozin/ai-obsidian/releases/download/v0.1.0/ai-obsidian-0.1.0.tar.gz"
-  sha256 "262e2a655cbefeee9fdf57a145795c73e895be79928f6825ea42a27270566335"
+  sha256 "25488931c3678d14923837b950775a987f7cbe146b510f2afbf4f5bcb8265f9c"
   license "MIT"
 
   depends_on "python@3.12"
